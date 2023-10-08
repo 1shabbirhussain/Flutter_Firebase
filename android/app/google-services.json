@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338329851133",
+    "project_id": "chatapp-jp",
+    "storage_bucket": "chatapp-jp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338329851133:android:54637d45aec646af53da94",
+        "android_client_info": {
+          "package_name": "com.example.lalal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHLnO-YjYZBJbDhTcPBZAW6ivjJi3R2So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
